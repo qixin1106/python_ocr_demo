@@ -1,0 +1,55 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 依赖目录
+__pycache__/
+.pytest_cache/
+
+# 模型文件
+.paddleocr/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+
+# 图片文件（测试用）
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# 配置文件
+.env
+*.env.local
+*.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 构建产物
+dist/
+build/
+*.egg-info/
+
+# 测试报告
+coverage/
+htmlcov/
+
+# 数据库
+*.db
+*.sqlite3
