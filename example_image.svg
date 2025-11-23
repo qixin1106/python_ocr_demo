@@ -1,0 +1,8 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#ffffff" />
+  <text x="50" y="50" font-family="Arial" font-size="24" fill="#000000">Python OCR Demo</text>
+  <text x="50" y="80" font-family="Arial" font-size="18" fill="#333333">这是一个测试图片</text>
+  <text x="50" y="110" font-family="Arial" font-size="18" fill="#333333">包含中文和英文文字</text>
+  <text x="50" y="140" font-family="Arial" font-size="18" fill="#333333">OCR Tool Class</text>
+  <text x="50" y="170" font-family="Arial" font-size="14" fill="#666666">2024年1月</text>
+</svg>
